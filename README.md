@@ -24,3 +24,8 @@ This Project Includes:
   •Synthesis of Square Wave
   • Synthesis of Triangular Wave
   
+  
+Fourier Series and Convergence of Continuous Time Fourier Series: 
+This Project Includes:
+• Fourier Series Representation of Continuous Time Period Signals
+• Convergence of Continuous Time Fourier Series
